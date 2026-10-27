@@ -45,7 +45,7 @@ Sentry · Prism 以 Sentry 预设为视觉参考，配对浅色与深色阅读�
 
 ## 来源与边界
 
-视觉参考：[Codex Sentry appearance preset](https://learn.chatgpt.com/docs/reference/settings#appearance)，`installed version 26.1021.3705`。本独立编写的适配采用 MIT 许可；详见 [许可说明](LICENSE)。从本机 Codex 预设定义中读取部分颜色数值，并独立映射到 Tine；不分发 Codex 源代码或资源。原参考只有单模式时，另一模式为独立生成的配色，用户已提供两种模式的截图；原始上游来源和署名仍需核对。
+视觉参考：[Codex Sentry appearance preset](https://learn.chatgpt.com/docs/reference/settings#appearance)，`installed version 26.1021.3705`。本独立编写的适配采用 MIT 许可；详见 [许可说明](LICENSE)。从本机 Codex 预设定义中读取部分颜色数值，并独立映射到 Tine；不分发 Codex 源代码或资源。原参考只有单模式时，另一模式为独立生成的配色，用户已提供两种模式的截图；该 Codex 预设的原始上游来源尚未独立确认。
 
 独立社区适配由 EllisMorrow 完成，使用 AI 辅助开发。不分发 Codex 程序代码、标志或附带资源，不代表相关项目或 OpenAI 的官方产品，也不承诺与 Codex 像素级一致。具体映射和验证边界见 [适配说明](docs/adaptation.md)。
 
