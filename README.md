@@ -15,6 +15,8 @@
 
 Sentry · Prism pairs a light and a dark reading palette inspired by the Sentry preset, with independently adapted Tine surfaces, links and highlights.
 
+Explore the full [Prism theme gallery](https://github.com/martinkoutecky/tine/discussions/786) to compare all 29 themes in light and dark modes.
+
 ### Dark mode
 
 ![Sentry · Prism in Tine dark mode](docs/sentry-dark.png)

@@ -8,6 +8,8 @@
 
 Sentry · Prism 以 Sentry 预设为视觉参考，配对浅色与深色阅读色板，并独立适配 Tine 的背景、链接和高亮。
 
+在 [Prism 主题画廊](https://github.com/martinkoutecky/tine/discussions/786)中，可以直观比较全部 29 个主题的浅色与深色效果。
+
 ### 深色模式
 
 ![Sentry · Prism 深色模式实拍](docs/sentry-dark.png)
